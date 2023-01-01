@@ -1,0 +1,31 @@
+name: Check progress 
+on:
+  schedule:
+    - cron: '0 23 * * *'
+  workflow_dispatch:
+jobs:
+  update:
+    name: progress
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout
+        uses: actions/checkout@master
+        with:
+          ref: main
+      - name: python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.9'
+      - name: dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+      - name: run
+        run: |
+          python run.py
+      - name: commit
+        run: |
+          git config --global user.email "mastodon_progress@example.com"
+          git config --global user.name "mastodon_progress"
+          git add -A
+          git diff --quiet && git diff --staged --quiet || (git commit -m "[ci] update"; git push -q "https://$GH_TOKEN@github.com/mauforonda/mastodon_progress.git" main)

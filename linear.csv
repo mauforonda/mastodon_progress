@@ -34,7 +34,7 @@ IOS-27,unstarted,Checkbox for forwarding reports,3
 IOS-28,unstarted,Choose focal point on images,3
 IOS-29,unstarted,Hint about potentially missing remote content,3
 IOS-30,unstarted,Visual QA pass,3
-IOS-31,unstarted,Implement iOS Action Extension,3
+IOS-31,started,Implement iOS Action Extension,3
 IOS-34,backlog,Password input not recognized for iCloud Keychain,4
 IOS-35,backlog,App rating prompt offered after posting failure,4
 IOS-36,backlog,Compose threads in one go,3

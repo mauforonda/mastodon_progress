@@ -11,13 +11,12 @@ AND-2,started,Update onboarding flow,1
 AND-3,started,Use markers API to sync timeline position,3
 AND-4,unstarted,Follow hashtags,3
 AND-5,unstarted,Translating posts,3
-AND-6,unstarted,Pinned posts on profiles,4
+AND-6,started,Pinned posts on profiles,4
 AND-7,started,View image descriptions on media,2
 AND-8,unstarted,Filters,2
 AND-9,unstarted,Lists,2
 IOS-1,started,Update onboarding flow,1
 IOS-10,unstarted,Use markers API to sync timeline position,4
-IOS-12,started,Support landscape orientation for full-screen video,4
 IOS-14,unstarted,Advanced settings area,4
 IOS-15,unstarted,Preference to not allow posting without image description,4
 IOS-16,unstarted,Preference to not show numbers on posts,4
@@ -27,7 +26,7 @@ IOS-2,started,Post editing,2
 IOS-20,unstarted,Server information,4
 IOS-21,unstarted,Lists,2
 IOS-22,unstarted,Filters,2
-IOS-24,unstarted,Pinned posts on profiles,2
+IOS-24,started,Pinned posts on profiles,2
 IOS-25,unstarted,Language selection when composing new post,3
 IOS-26,unstarted,Thread depth indicators,4
 IOS-27,unstarted,Checkbox for forwarding reports,3
@@ -46,9 +45,10 @@ IOS-42,backlog,App clip for sign-up from QR code,4
 IOS-43,unstarted,Tapping push notification does not open the right screen,3
 IOS-44,unstarted,Sharing link to reblog uses wrong permalink,2
 IOS-45,backlog,Custom app icons,0
+IOS-46,unstarted,Save alt text expanded state when transitioning from inline to lightbox,4
+IOS-47,unstarted,Limit max height of media in status and center to focal point,0
 IOS-5,unstarted,Block domain option in dropdowns,3
 IOS-7,unstarted,Clear in-app browser cookies on sign-out,4
-IOS-8,unstarted,Copyable username on profiles,3
 IOS-9,unstarted,Pull to refresh on threads,4
 MAS-11,backlog,Default and configurable terms of service,2
 MAS-12,backlog,Remove `noreferrer` from links,3

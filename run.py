@@ -10,7 +10,7 @@ LINEAR_PATH = "https://raw.githubusercontent.com/mastodon/joinmastodon/master/da
 LINEAR_LOCAL = "linear.csv"
 MESSAGE_PATH = "readme.md"
 
-def tidy_up(issues: dict) -> pd.core.frame.DataFrame:
+def tidy_up(issues: dict, columns: list) -> pd.core.frame.DataFrame:
     """
     Flatten the original data
     """
@@ -23,7 +23,7 @@ def tidy_up(issues: dict) -> pd.core.frame.DataFrame:
         ]
     )
     df.set_index("id", inplace=True)
-    return df.sort_index()
+    return df.sort_index()[columns]
 
 def get_records(df: pd.core.frame.DataFrame, items: list) -> list:
 
@@ -139,7 +139,7 @@ if __name__ == "__main__":
 
     old = pd.read_csv(LINEAR_LOCAL, index_col="id")
     response = requests.get(LINEAR_PATH)
-    new = tidy_up(response.json())
+    new = tidy_up(response.json(), ['type', 'title', 'priority'])
     changes = get_changes(old, new)
     entries = write_entries(changes)
     if entries:

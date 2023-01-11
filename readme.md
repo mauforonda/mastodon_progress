@@ -1,3 +1,12 @@
+## January 11, 2023
+- **new**: *Allow searching for hashtags in admin UI* (`MAS-41`) `exploring` `medium priority`
+- **new**: *Add option to exclude list members from home feed* (`MAS-42`) `in progress` `medium priority`
+- **dropped**: *Update onboarding flow* (`IOS-1`) `in progress` `urgent`
+- **dropped**: *Sharing link to reblog uses wrong permalink* (`IOS-44`) `planned` `high priority`
+- **change** in *Password input not recognized for iCloud Keychain* (`IOS-34`): `type` from "backlog" to "unstarted"
+- **change** in *App rating prompt offered after posting failure* (`IOS-35`): `type` from "backlog" to "unstarted"
+- **change** in *Home Screen Widgets* (`IOS-37`): `type` from "backlog" to "unstarted"
+- **change** in *Custom app icons* (`IOS-45`): `type` from "backlog" to "unstarted"
 ## January 08, 2023
 - **new**: *Audio player* (`IOS-53`) `planned` `low priority`
 - **dropped**: *Find solution for bad reviews due to server behaviour* (`AND-17`) `planned` `medium priority`

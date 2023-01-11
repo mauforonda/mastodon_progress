@@ -14,7 +14,6 @@ AND-6,started,Pinned posts on profiles,4
 AND-7,started,View image descriptions on media,2
 AND-8,unstarted,Filters,2
 AND-9,unstarted,Lists,2
-IOS-1,started,Update onboarding flow,1
 IOS-10,unstarted,Use markers API to sync timeline position,4
 IOS-14,unstarted,Advanced settings area,4
 IOS-15,unstarted,Preference to not allow posting without image description,4
@@ -33,17 +32,16 @@ IOS-28,unstarted,Choose focal point on images,3
 IOS-29,unstarted,Hint about potentially missing remote content,3
 IOS-30,unstarted,Visual QA pass,3
 IOS-31,started,Implement iOS Action Extension,3
-IOS-34,backlog,Password input not recognized for iCloud Keychain,4
-IOS-35,backlog,App rating prompt offered after posting failure,4
+IOS-34,unstarted,Password input not recognized for iCloud Keychain,4
+IOS-35,unstarted,App rating prompt offered after posting failure,4
 IOS-36,backlog,Compose threads in one go,3
-IOS-37,backlog,Home Screen Widgets,2
+IOS-37,unstarted,Home Screen Widgets,2
 IOS-38,backlog,Drafts,4
 IOS-4,unstarted,Follow and unfollow in post dropdowns,2
 IOS-40,backlog,Empty state for lists,4
 IOS-42,backlog,App clip for sign-up from QR code,4
 IOS-43,unstarted,Tapping push notification does not open the right screen,3
-IOS-44,unstarted,Sharing link to reblog uses wrong permalink,2
-IOS-45,backlog,Custom app icons,3
+IOS-45,unstarted,Custom app icons,3
 IOS-46,unstarted,Save alt text expanded state when transitioning from inline to lightbox,4
 IOS-47,unstarted,Limit max height of media in status and center to focal point,4
 IOS-5,unstarted,Block domain option in dropdowns,3
@@ -76,3 +74,5 @@ MAS-37,backlog,Restrict who can reply to a post,3
 MAS-38,backlog,End-to-end encrypted messages,4
 MAS-39,backlog,Add practical ways to filter notifications,3
 MAS-40,backlog,Explicit controls to fetch more data from origin server,3
+MAS-41,backlog,Allow searching for hashtags in admin UI,3
+MAS-42,started,Add option to exclude list members from home feed,3

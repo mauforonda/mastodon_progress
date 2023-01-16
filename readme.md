@@ -1,3 +1,27 @@
+## January 16, 2023
+- **new**: *Update login flow* (`AND-1`) `completed` `urgent`
+- **new**: *Compose screen loses state when switching between apps* (`AND-19`) `completed` `low priority`
+- **new**: *Explore tab does not paginate* (`AND-20`) `completed` `medium priority`
+- **new**: *Update onboarding flow* (`IOS-1`) `completed` `urgent`
+- **new**: *Fix display of audio attachments* (`IOS-11`) `completed` `low priority`
+- **new**: *Support landscape orientation for full-screen video* (`IOS-12`) `completed` `low priority`
+- **new**: *Follow hashtags* (`IOS-13`) `completed` `high priority`
+- **new**: *Link preview cards* (`IOS-19`) `completed` `low priority`
+- **new**: *View image descriptions on media* (`IOS-23`) `completed` `high priority`
+- **new**: *Translating posts* (`IOS-3`) `completed` `high priority`
+- **new**: *Fix paragraph margins* (`IOS-32`) `completed` `high priority`
+- **new**: *Wrong percentages on multiple choice polls* (`IOS-41`) `completed` `medium priority`
+- **new**: *Sharing link to reblog uses wrong permalink* (`IOS-44`) `completed` `high priority`
+- **new**: *Short number format on post numbers* (`IOS-6`) `completed` `medium priority`
+- **new**: *Copyable username on profiles* (`IOS-8`) `completed` `medium priority`
+- **new**: *Make it possible to refresh a remotely suspended account in admin UI* (`MAS-18`) `completed` `medium priority`
+- **new**: *Add `--email` option to `tootctl accounts delete`* (`MAS-20`) `completed` `low priority`
+- **new**: *Add follow request banner on account header* (`MAS-26`) `completed` `low priority`
+- **new**: *Localized hashtag trends* (`MAS-44`) `exploring` `medium priority`
+- **new**: *Home feed digest* (`MAS-45`) `exploring` `medium priority`
+- **change** in *Pinned posts on profiles* (`IOS-24`): `type` from "started" to "unstarted"
+- **change** in *Implement iOS Action Extension* (`IOS-31`): `type` from "started" to "completed"
+- **change** in *Home Screen Widgets* (`IOS-37`): `type` from "unstarted" to "started"
 ## January 11, 2023
 - **new**: *Allow searching for hashtags in admin UI* (`MAS-41`) `exploring` `medium priority`
 - **new**: *Add option to exclude list members from home feed* (`MAS-42`) `in progress` `medium priority`

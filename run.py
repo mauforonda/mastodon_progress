@@ -90,7 +90,8 @@ def write_entries(changes:dict) -> list:
     types = {
         'started': 'in progress',
         'unstarted': 'planned',
-        'backlog': 'exploring'
+        'backlog': 'exploring',
+        'completed': 'completed'
     }
     
     def write_issue(issue:dict) -> str:

@@ -1,3 +1,7 @@
+## January 19, 2023
+- **change** in *Add ability to edit media metadata when editing posts* (`MAS-27`): `type` from "started" to "completed"
+- **change** in *Add confirmation screen to report handling flow* (`MAS-29`): `type` from "started" to "completed"
+- **change** in *Add option for Explore not to be the landing page* (`MAS-34`): `type` from "started" to "completed"
 ## January 16, 2023
 - **new**: *Update login flow* (`AND-1`) `completed` `urgent`
 - **new**: *Compose screen loses state when switching between apps* (`AND-19`) `completed` `low priority`

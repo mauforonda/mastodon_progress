@@ -1,3 +1,5 @@
+## January 24, 2023
+- **change** in *Rename "Everything" in OAuth permissions* (`MAS-35`): `type` from "started" to "completed"
 ## January 19, 2023
 - **change** in *Add ability to edit media metadata when editing posts* (`MAS-27`): `type` from "started" to "completed"
 - **change** in *Add confirmation screen to report handling flow* (`MAS-29`): `type` from "started" to "completed"

@@ -86,7 +86,7 @@ MAS-31,started,Change lists to be able to include accounts with pending follow r
 MAS-32,unstarted,Migrate lists on account migrations,4
 MAS-33,unstarted,Add ability to import lists,3
 MAS-34,completed,Add option for Explore not to be the landing page,3
-MAS-35,started,"Rename ""Everything"" in OAuth permissions",2
+MAS-35,completed,"Rename ""Everything"" in OAuth permissions",2
 MAS-36,unstarted,Invite code support in sign-up API,3
 MAS-37,backlog,Restrict who can reply to a post,3
 MAS-38,backlog,End-to-end encrypted messages,4

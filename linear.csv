@@ -16,7 +16,7 @@ AND-5,unstarted,Translating posts,3
 AND-6,started,Pinned posts on profiles,4
 AND-7,started,View image descriptions on media,2
 AND-8,unstarted,Filters,2
-AND-9,unstarted,Lists,2
+AND-9,started,Lists,2
 IOS-1,completed,Update onboarding flow,1
 IOS-10,unstarted,Use markers API to sync timeline position,4
 IOS-11,completed,Fix display of audio attachments,4
@@ -30,7 +30,7 @@ IOS-18,unstarted,Filter management,4
 IOS-19,completed,Link preview cards,4
 IOS-2,started,Post editing,2
 IOS-20,unstarted,Server information,4
-IOS-21,unstarted,Lists,2
+IOS-21,started,Lists,2
 IOS-22,unstarted,Filters,2
 IOS-23,completed,View image descriptions on media,2
 IOS-24,unstarted,Pinned posts on profiles,2
@@ -94,5 +94,7 @@ MAS-39,backlog,Add practical ways to filter notifications,3
 MAS-40,backlog,Explicit controls to fetch more data from origin server,3
 MAS-41,backlog,Allow searching for hashtags in admin UI,3
 MAS-42,started,Add option to exclude list members from home feed,3
+MAS-43,backlog,On-hover information cards for users,3
 MAS-44,backlog,Localized hashtag trends,3
 MAS-45,backlog,Home feed digest,3
+MAS-46,backlog,Webhook templating,3

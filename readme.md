@@ -1,3 +1,8 @@
+## January 26, 2023
+- **new**: *On-hover information cards for users* (`MAS-43`) `exploring` `medium priority`
+- **new**: *Webhook templating* (`MAS-46`) `exploring` `medium priority`
+- **change** in *Lists* (`AND-9`): `type` from "unstarted" to "started"
+- **change** in *Lists* (`IOS-21`): `type` from "unstarted" to "started"
 ## January 24, 2023
 - **change** in *Rename "Everything" in OAuth permissions* (`MAS-35`): `type` from "started" to "completed"
 ## January 19, 2023

@@ -1,3 +1,7 @@
+## January 29, 2023
+- **new**: *Increase media upload limits* (`MAS-47`) `planned` `medium priority`
+- **new**: *Quote posts* (`MAS-48`) `exploring` `medium priority`
+- **change** in *Webhook templating* (`MAS-46`): `type` from "backlog" to "started"
 ## January 26, 2023
 - **new**: *On-hover information cards for users* (`MAS-43`) `exploring` `medium priority`
 - **new**: *Webhook templating* (`MAS-46`) `exploring` `medium priority`

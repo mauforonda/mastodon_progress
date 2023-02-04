@@ -1,3 +1,8 @@
+## February 04, 2023
+- **new**: *Optimize batch file deletion* (`MAS-49`) `in progress` `medium priority`
+- **new**: *Remove avatar from OpenGraph tags* (`MAS-50`) `completed` `high priority`
+- **new**: *Add status page setting* (`MAS-53`) `in progress` `high priority`
+- **new**: *Report open connections in streaming API* (`MAS-60`) `completed` `high priority`
 ## January 29, 2023
 - **new**: *Increase media upload limits* (`MAS-47`) `planned` `medium priority`
 - **new**: *Quote posts* (`MAS-48`) `exploring` `medium priority`

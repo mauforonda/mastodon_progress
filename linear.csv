@@ -30,7 +30,7 @@ IOS-18,unstarted,Filter management,4
 IOS-19,completed,Link preview cards,4
 IOS-2,started,Post editing,2
 IOS-20,unstarted,Server information,4
-IOS-21,started,Lists,2
+IOS-21,unstarted,Lists,2
 IOS-22,unstarted,Filters,2
 IOS-23,completed,View image descriptions on media,2
 IOS-24,unstarted,Pinned posts on profiles,2
@@ -102,5 +102,8 @@ MAS-47,unstarted,Increase media upload limits,3
 MAS-48,backlog,Quote posts,3
 MAS-49,started,Optimize batch file deletion,3
 MAS-50,completed,Remove avatar from OpenGraph tags,2
-MAS-53,started,Add status page setting,2
+MAS-53,completed,Add status page setting,2
 MAS-60,completed,Report open connections in streaming API,2
+MAS-62,unstarted,Confirmation screen with impact summary when suspending domain,3
+MAS-63,backlog,Notify users when relationships are severed due to domain block,3
+MAS-68,backlog,Hashtag annotations,4

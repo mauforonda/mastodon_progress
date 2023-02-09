@@ -1,3 +1,9 @@
+## February 09, 2023
+- **new**: *Confirmation screen with impact summary when suspending domain* (`MAS-62`) `planned` `medium priority`
+- **new**: *Notify users when relationships are severed due to domain block* (`MAS-63`) `exploring` `medium priority`
+- **new**: *Hashtag annotations* (`MAS-68`) `exploring` `low priority`
+- **change** in *Lists* (`IOS-21`): `type` from "started" to "unstarted"
+- **change** in *Add status page setting* (`MAS-53`): `type` from "started" to "completed"
 ## February 04, 2023
 - **new**: *Optimize batch file deletion* (`MAS-49`) `in progress` `medium priority`
 - **new**: *Remove avatar from OpenGraph tags* (`MAS-50`) `completed` `high priority`

@@ -1,3 +1,12 @@
+## February 17, 2023
+- **new**: *Replace Webpack with Vite in build pipeline* (`MAS-80`) `planned` `medium priority`
+- **new**: *Login with Passkeys* (`MAS-81`) `exploring` `medium priority`
+- **new**: *Change light and dark themes to switch based on browser preferences* (`MAS-82`) `exploring` `low priority`
+- **change** in *Update onboarding flow* (`AND-2`): `type` from "started" to "completed"
+- **change** in *Use markers API to sync timeline position* (`AND-3`): `type` from "started" to "completed"
+- **change** in *View image descriptions on media* (`AND-7`): `type` from "started" to "completed"
+- **change** in *Tokenize URLs, usernames and emojis before translation* (`MAS-16`): `type` from "backlog" to "unstarted"
+- **change** in *Add explicit flag to differentiate suspended accounts from deleted accounts* (`MAS-22`): `type` from "unstarted" to "started"
 ## February 09, 2023
 - **new**: *Confirmation screen with impact summary when suspending domain* (`MAS-62`) `planned` `medium priority`
 - **new**: *Notify users when relationships are severed due to domain block* (`MAS-63`) `exploring` `medium priority`

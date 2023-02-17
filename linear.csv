@@ -8,13 +8,13 @@ AND-14,unstarted,Thread depth indicators,4
 AND-15,unstarted,Advanced settings area,4
 AND-18,unstarted,"Add ""Show results"" button to polls",3
 AND-19,completed,Compose screen loses state when switching between apps,4
-AND-2,started,Update onboarding flow,1
+AND-2,completed,Update onboarding flow,1
 AND-20,completed,Explore tab does not paginate,3
-AND-3,started,Use markers API to sync timeline position,3
+AND-3,completed,Use markers API to sync timeline position,3
 AND-4,unstarted,Follow hashtags,3
 AND-5,unstarted,Translating posts,3
 AND-6,started,Pinned posts on profiles,4
-AND-7,started,View image descriptions on media,2
+AND-7,completed,View image descriptions on media,2
 AND-8,unstarted,Filters,2
 AND-9,started,Lists,2
 IOS-1,completed,Update onboarding flow,1
@@ -67,13 +67,13 @@ MAS-11,backlog,Default and configurable terms of service,2
 MAS-13,backlog,Featured profiles on profiles,3
 MAS-14,backlog,Configurable favicon and app logo,4
 MAS-15,started,Groups,2
-MAS-16,backlog,"Tokenize URLs, usernames and emojis before translation",3
+MAS-16,unstarted,"Tokenize URLs, usernames and emojis before translation",3
 MAS-17,backlog,Respect `twitter:card` to display link previews differently,4
 MAS-18,completed,Make it possible to refresh a remotely suspended account in admin UI,3
 MAS-19,backlog,Timeline of public posts talking about a trending link,3
 MAS-20,completed,Add `--email` option to `tootctl accounts delete`,4
 MAS-21,unstarted,Add delay to account deletions and allow cancelling them,1
-MAS-22,unstarted,Add explicit flag to differentiate suspended accounts from deleted accounts,3
+MAS-22,started,Add explicit flag to differentiate suspended accounts from deleted accounts,3
 MAS-23,backlog,Add auto-removal for failing WebPush endpoints,3
 MAS-24,backlog,"Paid sign-ups, pay per use storage",4
 MAS-25,backlog,Add imprint setting,2
@@ -107,3 +107,6 @@ MAS-60,completed,Report open connections in streaming API,2
 MAS-62,unstarted,Confirmation screen with impact summary when suspending domain,3
 MAS-63,backlog,Notify users when relationships are severed due to domain block,3
 MAS-68,backlog,Hashtag annotations,4
+MAS-80,unstarted,Replace Webpack with Vite in build pipeline,3
+MAS-81,backlog,Login with Passkeys,3
+MAS-82,backlog,Change light and dark themes to switch based on browser preferences,4

@@ -1,3 +1,5 @@
+## February 27, 2023
+- **change** in *Increase media upload limits* (`MAS-47`): `type` from "unstarted" to "started"
 ## February 17, 2023
 - **new**: *Replace Webpack with Vite in build pipeline* (`MAS-80`) `planned` `medium priority`
 - **new**: *Login with Passkeys* (`MAS-81`) `exploring` `medium priority`

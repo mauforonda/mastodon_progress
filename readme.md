@@ -1,3 +1,7 @@
+## March 02, 2023
+- **new**: *Markdown formatting for posts* (`MAS-86`) `exploring` `medium priority`
+- **new**: *Add artificial delay to streaming API to account for replication lag* (`MAS-87`) `planned` `high priority`
+- **new**: *Additional search syntax* (`MAS-88`) `planned` `medium priority`
 ## February 27, 2023
 - **change** in *Increase media upload limits* (`MAS-47`): `type` from "unstarted" to "started"
 ## February 17, 2023

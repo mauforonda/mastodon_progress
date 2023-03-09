@@ -110,6 +110,6 @@ MAS-68,backlog,Hashtag annotations,4
 MAS-80,unstarted,Replace Webpack with Vite in build pipeline,3
 MAS-81,backlog,Login with Passkeys,3
 MAS-82,backlog,Change light and dark themes to switch based on browser preferences,4
-MAS-86,backlog,Markdown formatting for posts,3
+MAS-86,started,Markdown formatting for posts,3
 MAS-87,unstarted,Add artificial delay to streaming API to account for replication lag,2
 MAS-88,unstarted,Additional search syntax,3

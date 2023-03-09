@@ -1,3 +1,5 @@
+## March 09, 2023
+- **change** in *Markdown formatting for posts* (`MAS-86`): `type` from "backlog" to "started"
 ## March 03, 2023
 - **change** in *Post editing* (`IOS-2`): `type` from "started" to "completed"
 ## March 02, 2023

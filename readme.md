@@ -1,3 +1,9 @@
+## March 14, 2023
+- **new**: *Rework link previews fetching and distribution* (`MAS-113`) `planned` `medium priority`
+- **dropped**: *Visual QA pass* (`IOS-30`) `planned` `medium priority`
+- **change** in *Default and configurable terms of service* (`MAS-11`): `type` from "backlog" to "unstarted"
+- **change** in *Explicit controls to fetch more data from origin server* (`MAS-40`): `type` from "backlog" to "unstarted"
+- **change** in *Notify users when relationships are severed due to domain block* (`MAS-63`): `type` from "backlog" to "unstarted"
 ## March 09, 2023
 - **change** in *Markdown formatting for posts* (`MAS-86`): `type` from "backlog" to "started"
 ## March 03, 2023

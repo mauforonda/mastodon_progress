@@ -67,7 +67,7 @@ MAS-113,unstarted,Rework link previews fetching and distribution,3
 MAS-13,backlog,Featured profiles on profiles,3
 MAS-14,backlog,Configurable favicon and app logo,4
 MAS-15,started,Groups,2
-MAS-16,unstarted,"Tokenize URLs, usernames and emojis before translation",3
+MAS-16,unstarted,"Tokenize URLs, usernames and emojis before translation",2
 MAS-17,backlog,Respect `twitter:card` to display link previews differently,4
 MAS-18,completed,Make it possible to refresh a remotely suspended account in admin UI,3
 MAS-19,backlog,Timeline of public posts talking about a trending link,3
@@ -91,7 +91,7 @@ MAS-36,unstarted,Invite code support in sign-up API,3
 MAS-37,backlog,Restrict who can reply to a post,3
 MAS-38,backlog,End-to-end encrypted messages,4
 MAS-39,backlog,Add practical ways to filter notifications,3
-MAS-40,unstarted,Explicit controls to fetch more data from origin server,3
+MAS-40,unstarted,Explicit controls to fetch more data from origin server,2
 MAS-41,backlog,Allow searching for hashtags in admin UI,3
 MAS-42,started,Add option to exclude list members from home feed,3
 MAS-43,backlog,On-hover information cards for users,3
@@ -105,11 +105,11 @@ MAS-50,completed,Remove avatar from OpenGraph tags,2
 MAS-53,completed,Add status page setting,2
 MAS-60,completed,Report open connections in streaming API,2
 MAS-62,unstarted,Confirmation screen with impact summary when suspending domain,3
-MAS-63,unstarted,Notify users when relationships are severed due to domain block,3
+MAS-63,unstarted,Notify users when relationships are severed due to domain block,2
 MAS-68,backlog,Hashtag annotations,4
 MAS-80,unstarted,Replace Webpack with Vite in build pipeline,3
 MAS-81,backlog,Login with Passkeys,3
 MAS-82,backlog,Change light and dark themes to switch based on browser preferences,4
 MAS-86,started,Markdown formatting for posts,3
 MAS-87,unstarted,Add artificial delay to streaming API to account for replication lag,2
-MAS-88,unstarted,Additional search syntax,3
+MAS-88,started,Additional search syntax,2

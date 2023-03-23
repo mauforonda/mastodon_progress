@@ -1,3 +1,9 @@
+## March 23, 2023
+- **change** in *Tokenize URLs, usernames and emojis before translation* (`MAS-16`): `priority` from "medium priority" to "high priority"
+- **change** in *Explicit controls to fetch more data from origin server* (`MAS-40`): `priority` from "medium priority" to "high priority"
+- **change** in *Notify users when relationships are severed due to domain block* (`MAS-63`): `priority` from "medium priority" to "high priority"
+- **change** in *Additional search syntax* (`MAS-88`): `priority` from "medium priority" to "high priority"
+- **change** in *Additional search syntax* (`MAS-88`): `type` from "unstarted" to "started"
 ## March 14, 2023
 - **new**: *Rework link previews fetching and distribution* (`MAS-113`) `planned` `medium priority`
 - **dropped**: *Visual QA pass* (`IOS-30`) `planned` `medium priority`

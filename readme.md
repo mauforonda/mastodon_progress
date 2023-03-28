@@ -1,3 +1,15 @@
+## March 28, 2023
+- **new**: *Rename DMs to private mentions* (`MAS-100`) `in progress` `high priority`
+- **new**: *Upgrade to Rails 7* (`MAS-101`) `in progress` `low priority`
+- **new**: *Rework interaction modal* (`MAS-115`) `exploring` `high priority`
+- **new**: *Add search prompts* (`MAS-116`) `in progress` `low priority`
+- **new**: *Batch fetch APIs* (`MAS-52`) `in progress` `high priority`
+- **new**: *Allow connecting custom domain to account* (`MAS-54`) `exploring` `medium priority`
+- **new**: *Server-side rendering* (`MAS-69`) `exploring` `medium priority`
+- **new**: *Thread pagination* (`MAS-75`) `exploring` `high priority`
+- **new**: *Play remote videos directly from origin without caching* (`MAS-84`) `planned` `high priority`
+- **change** in *Tokenize URLs, usernames and emojis before translation* (`MAS-16`): `type` from "unstarted" to "started"
+- **change** in *Increase media upload limits* (`MAS-47`): `type` from "started" to "completed"
 ## March 23, 2023
 - **change** in *Tokenize URLs, usernames and emojis before translation* (`MAS-16`): `priority` from "medium priority" to "high priority"
 - **change** in *Explicit controls to fetch more data from origin server* (`MAS-40`): `priority` from "medium priority" to "high priority"

@@ -1,3 +1,10 @@
+## April 03, 2023
+- **new**: *Link to status page on error pages* (`MAS-118`) `planned` `medium priority`
+- **change** in *Follow hashtags* (`AND-4`): `type` from "unstarted" to "started"
+- **change** in *Lists* (`AND-9`): `type` from "started" to "unstarted"
+- **change** in *Rename DMs to private mentions* (`MAS-100`): `type` from "started" to "completed"
+- **change** in *Rework link previews fetching and distribution* (`MAS-113`): `priority` from "medium priority" to "high priority"
+- **change** in *Add search prompts* (`MAS-116`): `type` from "started" to "completed"
 ## March 28, 2023
 - **new**: *Rename DMs to private mentions* (`MAS-100`) `in progress` `high priority`
 - **new**: *Upgrade to Rails 7* (`MAS-101`) `in progress` `low priority`

@@ -11,12 +11,12 @@ AND-19,completed,Compose screen loses state when switching between apps,4
 AND-2,completed,Update onboarding flow,1
 AND-20,completed,Explore tab does not paginate,3
 AND-3,completed,Use markers API to sync timeline position,3
-AND-4,unstarted,Follow hashtags,3
+AND-4,started,Follow hashtags,3
 AND-5,unstarted,Translating posts,3
 AND-6,started,Pinned posts on profiles,4
 AND-7,completed,View image descriptions on media,2
 AND-8,unstarted,Filters,2
-AND-9,started,Lists,2
+AND-9,unstarted,Lists,2
 IOS-1,completed,Update onboarding flow,1
 IOS-10,unstarted,Use markers API to sync timeline position,4
 IOS-11,completed,Fix display of audio attachments,4
@@ -62,12 +62,13 @@ IOS-6,completed,Short number format on post numbers,3
 IOS-7,unstarted,Clear in-app browser cookies on sign-out,4
 IOS-8,completed,Copyable username on profiles,3
 IOS-9,unstarted,Pull to refresh on threads,4
-MAS-100,started,Rename DMs to private mentions,2
+MAS-100,completed,Rename DMs to private mentions,2
 MAS-101,started,Upgrade to Rails 7,4
 MAS-11,unstarted,Default and configurable terms of service,2
-MAS-113,unstarted,Rework link previews fetching and distribution,3
+MAS-113,unstarted,Rework link previews fetching and distribution,2
 MAS-115,backlog,Rework interaction modal,2
-MAS-116,started,Add search prompts,4
+MAS-116,completed,Add search prompts,4
+MAS-118,unstarted,Link to status page on error pages,3
 MAS-13,backlog,Featured profiles on profiles,3
 MAS-14,backlog,Configurable favicon and app logo,4
 MAS-15,started,Groups,2

@@ -11,7 +11,7 @@ AND-19,completed,Compose screen loses state when switching between apps,4
 AND-2,completed,Update onboarding flow,1
 AND-20,completed,Explore tab does not paginate,3
 AND-3,completed,Use markers API to sync timeline position,3
-AND-4,started,Follow hashtags,3
+AND-4,unstarted,Follow hashtags,3
 AND-5,unstarted,Translating posts,3
 AND-6,started,Pinned posts on profiles,4
 AND-7,completed,View image descriptions on media,2
@@ -22,7 +22,7 @@ IOS-10,unstarted,Use markers API to sync timeline position,4
 IOS-11,completed,Fix display of audio attachments,4
 IOS-12,completed,Support landscape orientation for full-screen video,4
 IOS-13,completed,Follow hashtags,2
-IOS-14,unstarted,Advanced settings area,4
+IOS-14,unstarted,Advanced settings area,3
 IOS-15,unstarted,Preference to not allow posting without image description,4
 IOS-16,unstarted,Preference to not show numbers on posts,4
 IOS-17,unstarted,Preference to automatically expand content warnings,4
@@ -31,13 +31,13 @@ IOS-19,completed,Link preview cards,4
 IOS-2,completed,Post editing,2
 IOS-20,unstarted,Server information,4
 IOS-21,unstarted,Lists,2
-IOS-22,unstarted,Filters,2
+IOS-22,unstarted,Filters in post layout,2
 IOS-23,completed,View image descriptions on media,2
 IOS-24,unstarted,Pinned posts on profiles,2
-IOS-25,unstarted,Language selection when composing new post,3
-IOS-26,unstarted,Thread depth indicators,4
-IOS-27,unstarted,Checkbox for forwarding reports,3
-IOS-28,unstarted,Choose focal point on images,3
+IOS-25,unstarted,Language selection when composing new post,4
+IOS-26,unstarted,Thread depth indicators,3
+IOS-27,unstarted,Checkbox for forwarding reports,4
+IOS-28,unstarted,Choose focal point on images,4
 IOS-29,unstarted,Hint about potentially missing remote content,3
 IOS-3,completed,Translating posts,2
 IOS-31,completed,Implement iOS Action Extension,3
@@ -96,7 +96,7 @@ MAS-36,unstarted,Invite code support in sign-up API,3
 MAS-37,backlog,Restrict who can reply to a post,3
 MAS-38,backlog,End-to-end encrypted messages,4
 MAS-39,backlog,Add practical ways to filter notifications,3
-MAS-40,unstarted,Explicit controls to fetch more data from origin server,2
+MAS-40,unstarted,Explicit controls to fetch more data from origin server,1
 MAS-41,backlog,Allow searching for hashtags in admin UI,3
 MAS-42,started,Add option to exclude list members from home feed,3
 MAS-43,backlog,On-hover information cards for users,3

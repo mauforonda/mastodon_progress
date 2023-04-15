@@ -1,3 +1,12 @@
+## April 15, 2023
+- **change** in *Follow hashtags* (`AND-4`): `type` from "started" to "unstarted"
+- **change** in *Advanced settings area* (`IOS-14`): `priority` from "low priority" to "medium priority"
+- **change** in *Filters in post layout* (`IOS-22`): `title` from "Filters" to "Filters in post layout"
+- **change** in *Language selection when composing new post* (`IOS-25`): `priority` from "medium priority" to "low priority"
+- **change** in *Thread depth indicators* (`IOS-26`): `priority` from "low priority" to "medium priority"
+- **change** in *Checkbox for forwarding reports* (`IOS-27`): `priority` from "medium priority" to "low priority"
+- **change** in *Choose focal point on images* (`IOS-28`): `priority` from "medium priority" to "low priority"
+- **change** in *Explicit controls to fetch more data from origin server* (`MAS-40`): `priority` from "high priority" to "urgent"
 ## April 03, 2023
 - **new**: *Link to status page on error pages* (`MAS-118`) `planned` `medium priority`
 - **change** in *Follow hashtags* (`AND-4`): `type` from "unstarted" to "started"

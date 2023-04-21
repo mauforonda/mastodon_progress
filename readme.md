@@ -1,3 +1,5 @@
+## April 21, 2023
+- **change** in *Filters in post layout* (`IOS-22`): `type` from "unstarted" to "started"
 ## April 15, 2023
 - **change** in *Follow hashtags* (`AND-4`): `type` from "started" to "unstarted"
 - **change** in *Advanced settings area* (`IOS-14`): `priority` from "low priority" to "medium priority"

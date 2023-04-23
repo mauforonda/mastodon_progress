@@ -1,3 +1,5 @@
+## April 23, 2023
+- **new**: *New onboarding flow* (`MAS-127`) `in progress` `high priority`
 ## April 21, 2023
 - **change** in *Filters in post layout* (`IOS-22`): `type` from "unstarted" to "started"
 ## April 15, 2023

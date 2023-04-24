@@ -1,3 +1,6 @@
+## April 24, 2023
+- **new**: *Thread lines* (`MAS-128`) `completed` `low priority`
+- **change** in *New onboarding flow* (`MAS-127`): `type` from "started" to "completed"
 ## April 23, 2023
 - **new**: *New onboarding flow* (`MAS-127`) `in progress` `high priority`
 ## April 21, 2023

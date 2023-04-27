@@ -1,3 +1,14 @@
+## April 27, 2023
+- **new**: *Fix search being hard to find on mobile* (`MAS-129`) `planned` `high priority`
+- **new**: *Privacy and verification as separate pages in settings* (`MAS-131`) `planned` `medium priority`
+- **new**: *Synchronize boost and favourite counts for remote posts* (`MAS-132`) `planned` `medium priority`
+- **new**: *Display followed hashtag above posts in home feed* (`MAS-133`) `planned` `medium priority`
+- **new**: *Privacy settings as an onboarding step* (`MAS-134`) `planned` `medium priority`
+- **new**: *Add server setting for default discoverability of accounts* (`MAS-136`) `planned` `medium priority`
+- **new**: *Sorting options for threads* (`MAS-137`) `planned` `medium priority`
+- **change** in *Translating posts* (`AND-5`): `priority` from "medium priority" to "high priority"
+- **change** in *Quote posts* (`MAS-48`): `priority` from "medium priority" to "high priority"
+- **change** in *Quote posts* (`MAS-48`): `type` from "backlog" to "unstarted"
 ## April 24, 2023
 - **new**: *Thread lines* (`MAS-128`) `completed` `low priority`
 - **change** in *New onboarding flow* (`MAS-127`): `type` from "started" to "completed"

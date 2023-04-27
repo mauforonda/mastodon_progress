@@ -12,7 +12,7 @@ AND-2,completed,Update onboarding flow,1
 AND-20,completed,Explore tab does not paginate,3
 AND-3,completed,Use markers API to sync timeline position,3
 AND-4,unstarted,Follow hashtags,3
-AND-5,unstarted,Translating posts,3
+AND-5,unstarted,Translating posts,2
 AND-6,started,Pinned posts on profiles,4
 AND-7,completed,View image descriptions on media,2
 AND-8,unstarted,Filters,2
@@ -71,7 +71,14 @@ MAS-116,completed,Add search prompts,4
 MAS-118,unstarted,Link to status page on error pages,3
 MAS-127,completed,New onboarding flow,2
 MAS-128,completed,Thread lines,4
+MAS-129,unstarted,Fix search being hard to find on mobile,2
 MAS-13,backlog,Featured profiles on profiles,3
+MAS-131,unstarted,Privacy and verification as separate pages in settings,3
+MAS-132,unstarted,Synchronize boost and favourite counts for remote posts,3
+MAS-133,unstarted,Display followed hashtag above posts in home feed,3
+MAS-134,unstarted,Privacy settings as an onboarding step,3
+MAS-136,unstarted,Add server setting for default discoverability of accounts,3
+MAS-137,unstarted,Sorting options for threads,3
 MAS-14,backlog,Configurable favicon and app logo,4
 MAS-15,started,Groups,2
 MAS-16,started,"Tokenize URLs, usernames and emojis before translation",2
@@ -106,7 +113,7 @@ MAS-44,backlog,Localized hashtag trends,3
 MAS-45,backlog,Home feed digest,3
 MAS-46,started,Webhook templating,3
 MAS-47,completed,Increase media upload limits,3
-MAS-48,backlog,Quote posts,3
+MAS-48,unstarted,Quote posts,2
 MAS-49,started,Optimize batch file deletion,3
 MAS-50,completed,Remove avatar from OpenGraph tags,2
 MAS-52,started,Batch fetch APIs,2

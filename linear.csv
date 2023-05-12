@@ -2,20 +2,27 @@ id,type,title,priority
 AND-1,completed,Update login flow,1
 AND-10,unstarted,Hint about potentially missing remote content,3
 AND-11,unstarted,Choose focal point on images,3
-AND-12,unstarted,Checkbox for forwarding reports,3
-AND-13,unstarted,Language selection when composing new post,3
 AND-14,unstarted,Thread depth indicators,4
-AND-15,unstarted,Advanced settings area,4
+AND-15,unstarted,Advanced Settings,3
 AND-18,unstarted,"Add ""Show results"" button to polls",3
 AND-19,completed,Compose screen loses state when switching between apps,4
 AND-2,completed,Update onboarding flow,1
 AND-20,completed,Explore tab does not paginate,3
 AND-3,completed,Use markers API to sync timeline position,3
 AND-4,unstarted,Follow hashtags,3
+AND-45,backlog,Allow posting audio files,4
 AND-5,unstarted,Translating posts,2
 AND-6,started,Pinned posts on profiles,4
+AND-63,started,Show verified links more prominently,2
 AND-7,completed,View image descriptions on media,2
-AND-8,unstarted,Filters,2
+AND-73,unstarted,Server information in settings,3
+AND-74,unstarted,Filter settings,3
+AND-75,unstarted,Privacy settings,3
+AND-76,unstarted,Behavior settings,3
+AND-77,unstarted,Display settings,3
+AND-78,unstarted,Notifications settings,3
+AND-8,unstarted,Filtered posts in the feed,2
+AND-83,backlog,Home Screen Widgets,4
 AND-9,unstarted,Lists,2
 IOS-1,completed,Update onboarding flow,1
 IOS-10,unstarted,Use markers API to sync timeline position,4
@@ -23,7 +30,10 @@ IOS-11,completed,Fix display of audio attachments,4
 IOS-12,completed,Support landscape orientation for full-screen video,4
 IOS-13,completed,Follow hashtags,2
 IOS-14,unstarted,Advanced settings area,3
+IOS-140,completed,Show verified links more prominently,2
+IOS-141,unstarted,Improve search flow,2
 IOS-15,unstarted,Preference to not allow posting without image description,4
+IOS-155,backlog,Role badges on profiles,0
 IOS-16,unstarted,Preference to not show numbers on posts,4
 IOS-17,unstarted,Preference to automatically expand content warnings,4
 IOS-18,unstarted,Filter management,4
@@ -31,7 +41,7 @@ IOS-19,completed,Link preview cards,4
 IOS-2,completed,Post editing,2
 IOS-20,unstarted,Server information,4
 IOS-21,unstarted,Lists,2
-IOS-22,started,Filters in post layout,2
+IOS-22,unstarted,Filtered posts in the feed,2
 IOS-23,completed,View image descriptions on media,2
 IOS-24,unstarted,Pinned posts on profiles,2
 IOS-25,unstarted,Language selection when composing new post,4
@@ -45,7 +55,7 @@ IOS-32,completed,Fix paragraph margins,2
 IOS-34,unstarted,Password input not recognized for iCloud Keychain,4
 IOS-35,unstarted,App rating prompt offered after posting failure,4
 IOS-36,backlog,Compose threads in one go,3
-IOS-37,started,Home Screen Widgets,2
+IOS-37,completed,Home Screen Widgets,2
 IOS-38,backlog,Drafts,4
 IOS-4,unstarted,Follow and unfollow in post dropdowns,2
 IOS-40,backlog,Empty state for lists,4
@@ -58,17 +68,24 @@ IOS-46,unstarted,Save alt text expanded state when transitioning from inline to 
 IOS-47,unstarted,Limit max height of media in status and center to focal point,4
 IOS-5,unstarted,Block domain option in dropdowns,3
 IOS-53,unstarted,Audio player,4
+IOS-54,unstarted,Animations for interactions,3
 IOS-6,completed,Short number format on post numbers,3
 IOS-7,unstarted,Clear in-app browser cookies on sign-out,4
 IOS-8,completed,Copyable username on profiles,3
 IOS-9,unstarted,Pull to refresh on threads,4
+IOS-98,completed,Haptic feedback on navigation,4
 MAS-100,completed,Rename DMs to private mentions,2
 MAS-101,started,Upgrade to Rails 7,4
+MAS-103,completed,Cache APIs that don't require authentication,2
 MAS-11,unstarted,Default and configurable terms of service,2
 MAS-113,unstarted,Rework link previews fetching and distribution,2
-MAS-115,backlog,Rework interaction modal,2
+MAS-114,completed,Show verified links more prominently,3
+MAS-115,started,Rework interaction modal,2
 MAS-116,completed,Add search prompts,4
+MAS-117,unstarted,Add custom sign-up URL to configuration in API,3
 MAS-118,unstarted,Link to status page on error pages,3
+MAS-119,completed,Use better error page across all components in web UI,3
+MAS-121,unstarted,Make logged-out pages cacheable,3
 MAS-127,completed,New onboarding flow,2
 MAS-128,completed,Thread lines,4
 MAS-129,unstarted,Fix search being hard to find on mobile,2
@@ -79,8 +96,11 @@ MAS-133,unstarted,Display followed hashtag above posts in home feed,3
 MAS-134,unstarted,Privacy settings as an onboarding step,3
 MAS-136,unstarted,Add server setting for default discoverability of accounts,3
 MAS-137,unstarted,Sorting options for threads,3
+MAS-138,unstarted,"When reporting a reply, forward report to server of parent",2
+MAS-139,backlog,Blocklist subscriptions,3
 MAS-14,backlog,Configurable favicon and app logo,4
 MAS-15,started,Groups,2
+MAS-151,unstarted,"Change label on ""Media not available"" thumbnails",4
 MAS-16,started,"Tokenize URLs, usernames and emojis before translation",2
 MAS-17,backlog,Respect `twitter:card` to display link previews differently,4
 MAS-18,completed,Make it possible to refresh a remotely suspended account in admin UI,3
@@ -93,7 +113,7 @@ MAS-24,backlog,"Paid sign-ups, pay per use storage",4
 MAS-25,backlog,Add imprint setting,2
 MAS-26,completed,Add follow request banner on account header,4
 MAS-27,completed,Add ability to edit media metadata when editing posts,3
-MAS-28,started,Add progress report to imports,3
+MAS-28,completed,Add progress report to imports,3
 MAS-29,completed,Add confirmation screen to report handling flow,3
 MAS-30,started,Add role badges to profiles,2
 MAS-31,started,Change lists to be able to include accounts with pending follow requests,4
@@ -124,6 +144,7 @@ MAS-62,unstarted,Confirmation screen with impact summary when suspending domain,
 MAS-63,unstarted,Notify users when relationships are severed due to domain block,2
 MAS-68,backlog,Hashtag annotations,4
 MAS-69,backlog,Server-side rendering,3
+MAS-73,completed,Remove clustering from streaming API,3
 MAS-75,backlog,Thread pagination,2
 MAS-80,unstarted,Replace Webpack with Vite in build pipeline,3
 MAS-81,backlog,Login with Passkeys,3
@@ -131,4 +152,4 @@ MAS-82,backlog,Change light and dark themes to switch based on browser preferenc
 MAS-84,unstarted,Play remote videos directly from origin without caching,2
 MAS-86,started,Markdown formatting for posts,3
 MAS-87,unstarted,Add artificial delay to streaming API to account for replication lag,2
-MAS-88,started,Additional search syntax,2
+MAS-88,unstarted,Improved account and content search,2

@@ -1,3 +1,39 @@
+## May 12, 2023
+- **new**: *Allow posting audio files* (`AND-45`) `exploring` `low priority`
+- **new**: *Show verified links more prominently* (`AND-63`) `in progress` `high priority`
+- **new**: *Server information in settings* (`AND-73`) `planned` `medium priority`
+- **new**: *Filter settings* (`AND-74`) `planned` `medium priority`
+- **new**: *Privacy settings* (`AND-75`) `planned` `medium priority`
+- **new**: *Behavior settings* (`AND-76`) `planned` `medium priority`
+- **new**: *Display settings* (`AND-77`) `planned` `medium priority`
+- **new**: *Notifications settings* (`AND-78`) `planned` `medium priority`
+- **new**: *Home Screen Widgets* (`AND-83`) `exploring` `low priority`
+- **new**: *Show verified links more prominently* (`IOS-140`) `completed` `high priority`
+- **new**: *Improve search flow* (`IOS-141`) `planned` `high priority`
+- **new**: *Role badges on profiles* (`IOS-155`) `exploring` `no priority`
+- **new**: *Animations for interactions* (`IOS-54`) `planned` `medium priority`
+- **new**: *Haptic feedback on navigation* (`IOS-98`) `completed` `low priority`
+- **new**: *Cache APIs that don't require authentication* (`MAS-103`) `completed` `high priority`
+- **new**: *Show verified links more prominently* (`MAS-114`) `completed` `medium priority`
+- **new**: *Add custom sign-up URL to configuration in API* (`MAS-117`) `planned` `medium priority`
+- **new**: *Use better error page across all components in web UI* (`MAS-119`) `completed` `medium priority`
+- **new**: *Make logged-out pages cacheable* (`MAS-121`) `planned` `medium priority`
+- **new**: *When reporting a reply, forward report to server of parent* (`MAS-138`) `planned` `high priority`
+- **new**: *Blocklist subscriptions* (`MAS-139`) `exploring` `medium priority`
+- **new**: *Change label on "Media not available" thumbnails* (`MAS-151`) `planned` `low priority`
+- **new**: *Remove clustering from streaming API* (`MAS-73`) `completed` `medium priority`
+- **dropped**: *Checkbox for forwarding reports* (`AND-12`) `planned` `medium priority`
+- **dropped**: *Language selection when composing new post* (`AND-13`) `planned` `medium priority`
+- **change** in *Advanced Settings* (`AND-15`): `priority` from "low priority" to "medium priority"
+- **change** in *Advanced Settings* (`AND-15`): `title` from "Advanced settings area" to "Advanced Settings"
+- **change** in *Filtered posts in the feed* (`AND-8`): `title` from "Filters" to "Filtered posts in the feed"
+- **change** in *Filtered posts in the feed* (`IOS-22`): `title` from "Filters in post layout" to "Filtered posts in the feed"
+- **change** in *Filtered posts in the feed* (`IOS-22`): `type` from "started" to "unstarted"
+- **change** in *Home Screen Widgets* (`IOS-37`): `type` from "started" to "completed"
+- **change** in *Rework interaction modal* (`MAS-115`): `type` from "backlog" to "started"
+- **change** in *Add progress report to imports* (`MAS-28`): `type` from "started" to "completed"
+- **change** in *Improved account and content search* (`MAS-88`): `title` from "Additional search syntax" to "Improved account and content search"
+- **change** in *Improved account and content search* (`MAS-88`): `type` from "started" to "unstarted"
 ## April 27, 2023
 - **new**: *Fix search being hard to find on mobile* (`MAS-129`) `planned` `high priority`
 - **new**: *Privacy and verification as separate pages in settings* (`MAS-131`) `planned` `medium priority`

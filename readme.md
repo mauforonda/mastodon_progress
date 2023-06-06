@@ -1,3 +1,24 @@
+## June 06, 2023
+- **dropped**: *Preference to not allow posting without image description* (`IOS-15`) `planned` `low priority`
+- **dropped**: *Preference to not show numbers on posts* (`IOS-16`) `planned` `low priority`
+- **dropped**: *Preference to automatically expand content warnings* (`IOS-17`) `planned` `low priority`
+- **dropped**: *Follow and unfollow in post dropdowns* (`IOS-4`) `planned` `high priority`
+- **change** in *Advanced Settings* (`AND-15`): `type` from "unstarted" to "started"
+- **change** in *Server information in settings* (`AND-73`): `type` from "unstarted" to "started"
+- **change** in *Filter settings* (`AND-74`): `type` from "unstarted" to "started"
+- **change** in *Privacy settings* (`AND-75`): `type` from "unstarted" to "backlog"
+- **change** in *Behavior settings* (`AND-76`): `type` from "unstarted" to "started"
+- **change** in *Display settings* (`AND-77`): `type` from "unstarted" to "started"
+- **change** in *Notifications settings* (`AND-78`): `type` from "unstarted" to "started"
+- **change** in *Settings: Server Information* (`IOS-20`): `title` from "Server information" to "Settings: Server Information"
+- **change** in *Custom app icons* (`IOS-45`): `type` from "unstarted" to "backlog"
+- **change** in *Add custom sign-up URL to configuration in API* (`MAS-117`): `type` from "unstarted" to "completed"
+- **change** in *Change lists to be able to include accounts with pending follow requests* (`MAS-31`): `type` from "started" to "completed"
+- **change** in *Migrate lists on account migrations* (`MAS-32`): `type` from "unstarted" to "completed"
+- **change** in *Add ability to import lists* (`MAS-33`): `type` from "unstarted" to "completed"
+- **change** in *Notifications junk folder* (`MAS-39`): `title` from "Add practical ways to filter notifications" to "Notifications junk folder"
+- **change** in *Confirmation screen with impact summary when suspending domain* (`MAS-62`): `type` from "unstarted" to "completed"
+- **change** in *Markdown formatting for posts* (`MAS-86`): `type` from "started" to "backlog"
 ## May 12, 2023
 - **new**: *Allow posting audio files* (`AND-45`) `exploring` `low priority`
 - **new**: *Show verified links more prominently* (`AND-63`) `in progress` `high priority`

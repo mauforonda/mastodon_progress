@@ -3,7 +3,7 @@ AND-1,completed,Update login flow,1
 AND-10,unstarted,Hint about potentially missing remote content,3
 AND-11,unstarted,Choose focal point on images,3
 AND-14,unstarted,Thread depth indicators,4
-AND-15,unstarted,Advanced Settings,3
+AND-15,started,Advanced Settings,3
 AND-18,unstarted,"Add ""Show results"" button to polls",3
 AND-19,completed,Compose screen loses state when switching between apps,4
 AND-2,completed,Update onboarding flow,1
@@ -15,12 +15,12 @@ AND-5,unstarted,Translating posts,2
 AND-6,started,Pinned posts on profiles,4
 AND-63,started,Show verified links more prominently,2
 AND-7,completed,View image descriptions on media,2
-AND-73,unstarted,Server information in settings,3
-AND-74,unstarted,Filter settings,3
-AND-75,unstarted,Privacy settings,3
-AND-76,unstarted,Behavior settings,3
-AND-77,unstarted,Display settings,3
-AND-78,unstarted,Notifications settings,3
+AND-73,started,Server information in settings,3
+AND-74,started,Filter settings,3
+AND-75,backlog,Privacy settings,3
+AND-76,started,Behavior settings,3
+AND-77,started,Display settings,3
+AND-78,started,Notifications settings,3
 AND-8,unstarted,Filtered posts in the feed,2
 AND-83,backlog,Home Screen Widgets,4
 AND-9,unstarted,Lists,2
@@ -32,14 +32,11 @@ IOS-13,completed,Follow hashtags,2
 IOS-14,unstarted,Advanced settings area,3
 IOS-140,completed,Show verified links more prominently,2
 IOS-141,unstarted,Improve search flow,2
-IOS-15,unstarted,Preference to not allow posting without image description,4
 IOS-155,backlog,Role badges on profiles,0
-IOS-16,unstarted,Preference to not show numbers on posts,4
-IOS-17,unstarted,Preference to automatically expand content warnings,4
 IOS-18,unstarted,Filter management,4
 IOS-19,completed,Link preview cards,4
 IOS-2,completed,Post editing,2
-IOS-20,unstarted,Server information,4
+IOS-20,unstarted,Settings: Server Information,4
 IOS-21,unstarted,Lists,2
 IOS-22,unstarted,Filtered posts in the feed,2
 IOS-23,completed,View image descriptions on media,2
@@ -57,13 +54,12 @@ IOS-35,unstarted,App rating prompt offered after posting failure,4
 IOS-36,backlog,Compose threads in one go,3
 IOS-37,completed,Home Screen Widgets,2
 IOS-38,backlog,Drafts,4
-IOS-4,unstarted,Follow and unfollow in post dropdowns,2
 IOS-40,backlog,Empty state for lists,4
 IOS-41,completed,Wrong percentages on multiple choice polls,3
 IOS-42,backlog,App clip for sign-up from QR code,4
 IOS-43,unstarted,Tapping push notification does not open the right screen,3
 IOS-44,completed,Sharing link to reblog uses wrong permalink,2
-IOS-45,unstarted,Custom app icons,3
+IOS-45,backlog,Custom app icons,3
 IOS-46,unstarted,Save alt text expanded state when transitioning from inline to lightbox,4
 IOS-47,unstarted,Limit max height of media in status and center to focal point,4
 IOS-5,unstarted,Block domain option in dropdowns,3
@@ -82,7 +78,7 @@ MAS-113,unstarted,Rework link previews fetching and distribution,2
 MAS-114,completed,Show verified links more prominently,3
 MAS-115,started,Rework interaction modal,2
 MAS-116,completed,Add search prompts,4
-MAS-117,unstarted,Add custom sign-up URL to configuration in API,3
+MAS-117,completed,Add custom sign-up URL to configuration in API,3
 MAS-118,unstarted,Link to status page on error pages,3
 MAS-119,completed,Use better error page across all components in web UI,3
 MAS-121,unstarted,Make logged-out pages cacheable,3
@@ -116,15 +112,15 @@ MAS-27,completed,Add ability to edit media metadata when editing posts,3
 MAS-28,completed,Add progress report to imports,3
 MAS-29,completed,Add confirmation screen to report handling flow,3
 MAS-30,started,Add role badges to profiles,2
-MAS-31,started,Change lists to be able to include accounts with pending follow requests,4
-MAS-32,unstarted,Migrate lists on account migrations,4
-MAS-33,unstarted,Add ability to import lists,3
+MAS-31,completed,Change lists to be able to include accounts with pending follow requests,4
+MAS-32,completed,Migrate lists on account migrations,4
+MAS-33,completed,Add ability to import lists,3
 MAS-34,completed,Add option for Explore not to be the landing page,3
 MAS-35,completed,"Rename ""Everything"" in OAuth permissions",2
 MAS-36,unstarted,Invite code support in sign-up API,3
 MAS-37,backlog,Restrict who can reply to a post,3
 MAS-38,backlog,End-to-end encrypted messages,4
-MAS-39,backlog,Add practical ways to filter notifications,3
+MAS-39,backlog,Notifications junk folder,3
 MAS-40,unstarted,Explicit controls to fetch more data from origin server,1
 MAS-41,backlog,Allow searching for hashtags in admin UI,3
 MAS-42,started,Add option to exclude list members from home feed,3
@@ -140,7 +136,7 @@ MAS-52,started,Batch fetch APIs,2
 MAS-53,completed,Add status page setting,2
 MAS-54,backlog,Allow connecting custom domain to account,3
 MAS-60,completed,Report open connections in streaming API,2
-MAS-62,unstarted,Confirmation screen with impact summary when suspending domain,3
+MAS-62,completed,Confirmation screen with impact summary when suspending domain,3
 MAS-63,unstarted,Notify users when relationships are severed due to domain block,2
 MAS-68,backlog,Hashtag annotations,4
 MAS-69,backlog,Server-side rendering,3
@@ -150,6 +146,6 @@ MAS-80,unstarted,Replace Webpack with Vite in build pipeline,3
 MAS-81,backlog,Login with Passkeys,3
 MAS-82,backlog,Change light and dark themes to switch based on browser preferences,4
 MAS-84,unstarted,Play remote videos directly from origin without caching,2
-MAS-86,started,Markdown formatting for posts,3
+MAS-86,backlog,Markdown formatting for posts,3
 MAS-87,unstarted,Add artificial delay to streaming API to account for replication lag,2
 MAS-88,unstarted,Improved account and content search,2

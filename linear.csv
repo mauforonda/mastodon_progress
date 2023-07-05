@@ -3,7 +3,7 @@ AND-1,completed,Update login flow,1
 AND-10,unstarted,Hint about potentially missing remote content,3
 AND-11,unstarted,Choose focal point on images,3
 AND-14,unstarted,Thread depth indicators,4
-AND-15,started,Advanced Settings,3
+AND-15,completed,Advanced Settings,3
 AND-18,unstarted,"Add ""Show results"" button to polls",3
 AND-19,completed,Compose screen loses state when switching between apps,4
 AND-2,completed,Update onboarding flow,1
@@ -12,16 +12,16 @@ AND-3,completed,Use markers API to sync timeline position,3
 AND-4,unstarted,Follow hashtags,3
 AND-45,backlog,Allow posting audio files,4
 AND-5,unstarted,Translating posts,2
-AND-6,started,Pinned posts on profiles,4
-AND-63,started,Show verified links more prominently,2
+AND-6,completed,Pinned posts on profiles,4
+AND-63,completed,Show verified links more prominently,2
 AND-7,completed,View image descriptions on media,2
-AND-73,started,Server information in settings,3
-AND-74,started,Filter settings,3
+AND-73,completed,Server information in settings,3
+AND-74,completed,Filter settings,3
 AND-75,backlog,Privacy settings,3
-AND-76,started,Behavior settings,3
-AND-77,started,Display settings,3
-AND-78,started,Notifications settings,3
-AND-8,unstarted,Filtered posts in the feed,2
+AND-76,completed,Behavior settings,3
+AND-77,completed,Display settings,3
+AND-78,completed,Notifications settings,3
+AND-8,completed,Filtered posts in the feed,2
 AND-83,backlog,Home Screen Widgets,4
 AND-9,unstarted,Lists,2
 IOS-1,completed,Update onboarding flow,1
@@ -29,7 +29,7 @@ IOS-10,unstarted,Use markers API to sync timeline position,4
 IOS-11,completed,Fix display of audio attachments,4
 IOS-12,completed,Support landscape orientation for full-screen video,4
 IOS-13,completed,Follow hashtags,2
-IOS-14,unstarted,Advanced settings area,3
+IOS-14,started,Advanced settings area,3
 IOS-140,completed,Show verified links more prominently,2
 IOS-141,unstarted,Improve search flow,2
 IOS-155,backlog,Role badges on profiles,0
@@ -84,7 +84,7 @@ MAS-119,completed,Use better error page across all components in web UI,3
 MAS-121,unstarted,Make logged-out pages cacheable,3
 MAS-127,completed,New onboarding flow,2
 MAS-128,completed,Thread lines,4
-MAS-129,unstarted,Fix search being hard to find on mobile,2
+MAS-129,completed,Fix search being hard to find on mobile,2
 MAS-13,backlog,Featured profiles on profiles,3
 MAS-131,unstarted,Privacy and verification as separate pages in settings,3
 MAS-132,unstarted,Synchronize boost and favourite counts for remote posts,3
@@ -92,15 +92,15 @@ MAS-133,unstarted,Display followed hashtag above posts in home feed,3
 MAS-134,unstarted,Privacy settings as an onboarding step,3
 MAS-136,unstarted,Add server setting for default discoverability of accounts,3
 MAS-137,unstarted,Sorting options for threads,3
-MAS-138,unstarted,"When reporting a reply, forward report to server of parent",2
+MAS-138,started,"When reporting a reply, forward report to server of parent",2
 MAS-139,backlog,Blocklist subscriptions,3
 MAS-14,backlog,Configurable favicon and app logo,4
 MAS-15,started,Groups,2
-MAS-151,unstarted,"Change label on ""Media not available"" thumbnails",4
+MAS-151,started,"Change label on ""Media not available"" thumbnails",4
 MAS-16,started,"Tokenize URLs, usernames and emojis before translation",2
 MAS-17,backlog,Respect `twitter:card` to display link previews differently,4
 MAS-18,completed,Make it possible to refresh a remotely suspended account in admin UI,3
-MAS-19,backlog,Timeline of public posts talking about a trending link,3
+MAS-19,started,Timeline of public posts talking about a trending link,3
 MAS-20,completed,Add `--email` option to `tootctl accounts delete`,4
 MAS-21,unstarted,Add delay to account deletions and allow cancelling them,1
 MAS-22,started,Add explicit flag to differentiate suspended accounts from deleted accounts,3
@@ -123,14 +123,14 @@ MAS-38,backlog,End-to-end encrypted messages,4
 MAS-39,backlog,Notifications junk folder,3
 MAS-40,unstarted,Explicit controls to fetch more data from origin server,1
 MAS-41,backlog,Allow searching for hashtags in admin UI,3
-MAS-42,started,Add option to exclude list members from home feed,3
+MAS-42,completed,Add option to exclude list members from home feed,3
 MAS-43,backlog,On-hover information cards for users,3
 MAS-44,backlog,Localized hashtag trends,3
 MAS-45,backlog,Home feed digest,3
-MAS-46,started,Webhook templating,3
+MAS-46,completed,Webhook templating,3
 MAS-47,completed,Increase media upload limits,3
 MAS-48,unstarted,Quote posts,2
-MAS-49,started,Optimize batch file deletion,3
+MAS-49,completed,Optimize batch file deletion,3
 MAS-50,completed,Remove avatar from OpenGraph tags,2
 MAS-52,started,Batch fetch APIs,2
 MAS-53,completed,Add status page setting,2

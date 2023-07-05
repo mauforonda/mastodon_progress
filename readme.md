@@ -1,3 +1,21 @@
+## July 05, 2023
+- **change** in *Advanced Settings* (`AND-15`): `type` from "started" to "completed"
+- **change** in *Pinned posts on profiles* (`AND-6`): `type` from "started" to "completed"
+- **change** in *Show verified links more prominently* (`AND-63`): `type` from "started" to "completed"
+- **change** in *Server information in settings* (`AND-73`): `type` from "started" to "completed"
+- **change** in *Filter settings* (`AND-74`): `type` from "started" to "completed"
+- **change** in *Behavior settings* (`AND-76`): `type` from "started" to "completed"
+- **change** in *Display settings* (`AND-77`): `type` from "started" to "completed"
+- **change** in *Notifications settings* (`AND-78`): `type` from "started" to "completed"
+- **change** in *Filtered posts in the feed* (`AND-8`): `type` from "unstarted" to "completed"
+- **change** in *Advanced settings area* (`IOS-14`): `type` from "unstarted" to "started"
+- **change** in *Fix search being hard to find on mobile* (`MAS-129`): `type` from "unstarted" to "completed"
+- **change** in *When reporting a reply, forward report to server of parent* (`MAS-138`): `type` from "unstarted" to "started"
+- **change** in *Change label on "Media not available" thumbnails* (`MAS-151`): `type` from "unstarted" to "started"
+- **change** in *Timeline of public posts talking about a trending link* (`MAS-19`): `type` from "backlog" to "started"
+- **change** in *Add option to exclude list members from home feed* (`MAS-42`): `type` from "started" to "completed"
+- **change** in *Webhook templating* (`MAS-46`): `type` from "started" to "completed"
+- **change** in *Optimize batch file deletion* (`MAS-49`): `type` from "started" to "completed"
 ## June 06, 2023
 - **dropped**: *Preference to not allow posting without image description* (`IOS-15`) `planned` `low priority`
 - **dropped**: *Preference to not show numbers on posts* (`IOS-16`) `planned` `low priority`

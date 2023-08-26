@@ -1,3 +1,42 @@
+## August 26, 2023
+- **new**: *Signing up with an invite link* (`AND-90`) `planned` `medium priority`
+- **new**: *Signing up with an invite link* (`IOS-169`) `planned` `low priority`
+- **dropped**: *Update login flow* (`AND-1`) `completed` `urgent`
+- **dropped**: *Compose screen loses state when switching between apps* (`AND-19`) `completed` `low priority`
+- **dropped**: *Update onboarding flow* (`AND-2`) `completed` `urgent`
+- **dropped**: *Explore tab does not paginate* (`AND-20`) `completed` `medium priority`
+- **dropped**: *Use markers API to sync timeline position* (`AND-3`) `completed` `medium priority`
+- **dropped**: *View image descriptions on media* (`AND-7`) `completed` `high priority`
+- **dropped**: *Follow hashtags* (`IOS-13`) `completed` `high priority`
+- **dropped**: *Link preview cards* (`IOS-19`) `completed` `low priority`
+- **dropped**: *Translating posts* (`IOS-3`) `completed` `high priority`
+- **dropped**: *Fix paragraph margins* (`IOS-32`) `completed` `high priority`
+- **dropped**: *Drafts* (`IOS-38`) `exploring` `low priority`
+- **dropped**: *Empty state for lists* (`IOS-40`) `exploring` `low priority`
+- **dropped**: *Sharing link to reblog uses wrong permalink* (`IOS-44`) `completed` `high priority`
+- **dropped**: *Save alt text expanded state when transitioning from inline to lightbox* (`IOS-46`) `planned` `low priority`
+- **dropped**: *Clear in-app browser cookies on sign-out* (`IOS-7`) `planned` `low priority`
+- **dropped**: *Make it possible to refresh a remotely suspended account in admin UI* (`MAS-18`) `completed` `medium priority`
+- **dropped**: *Add `--email` option to `tootctl accounts delete`* (`MAS-20`) `completed` `low priority`
+- **dropped**: *Add follow request banner on account header* (`MAS-26`) `completed` `low priority`
+- **dropped**: *Add ability to edit media metadata when editing posts* (`MAS-27`) `completed` `medium priority`
+- **dropped**: *Add confirmation screen to report handling flow* (`MAS-29`) `completed` `medium priority`
+- **dropped**: *Add option for Explore not to be the landing page* (`MAS-34`) `completed` `medium priority`
+- **dropped**: *Rename "Everything" in OAuth permissions* (`MAS-35`) `completed` `high priority`
+- **dropped**: *Remove avatar from OpenGraph tags* (`MAS-50`) `completed` `high priority`
+- **dropped**: *Add status page setting* (`MAS-53`) `completed` `high priority`
+- **dropped**: *Report open connections in streaming API* (`MAS-60`) `completed` `high priority`
+- **change** in *Limit max height of media in status and center to focal point* (`IOS-47`): `type` from "unstarted" to "backlog"
+- **change** in *Block domain option in dropdowns* (`IOS-5`): `type` from "unstarted" to "backlog"
+- **change** in *Pull to refresh on threads* (`IOS-9`): `type` from "unstarted" to "backlog"
+- **change** in *Upgrade to Rails 7* (`MAS-101`): `type` from "started" to "completed"
+- **change** in *Rework interaction modal* (`MAS-115`): `type` from "started" to "completed"
+- **change** in *Privacy and verification as separate pages in settings* (`MAS-131`): `type` from "unstarted" to "completed"
+- **change** in *When reporting a reply, forward report to server of parent* (`MAS-138`): `type` from "started" to "completed"
+- **change** in *Change label on "Media not available" thumbnails* (`MAS-151`): `type` from "started" to "completed"
+- **change** in *Tokenize URLs, usernames and emojis before translation* (`MAS-16`): `type` from "started" to "completed"
+- **change** in *Add role badges to profiles* (`MAS-30`): `type` from "started" to "completed"
+- **change** in *Improved account and content search* (`MAS-88`): `type` from "unstarted" to "completed"
 ## July 05, 2023
 - **change** in *Advanced Settings* (`AND-15`): `type` from "started" to "completed"
 - **change** in *Pinned posts on profiles* (`AND-6`): `type` from "started" to "completed"

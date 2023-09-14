@@ -1,3 +1,9 @@
+## September 14, 2023
+- **dropped**: *Respect `twitter:card` to display link previews differently* (`MAS-17`) `exploring` `low priority`
+- **change** in *Follow hashtags* (`AND-4`): `priority` from "medium priority" to "urgent"
+- **change** in *Follow hashtags* (`AND-4`): `type` from "unstarted" to "started"
+- **change** in *Translating posts* (`AND-5`): `priority` from "high priority" to "urgent"
+- **change** in *Translating posts* (`AND-5`): `type` from "unstarted" to "started"
 ## August 26, 2023
 - **new**: *Signing up with an invite link* (`AND-90`) `planned` `medium priority`
 - **new**: *Signing up with an invite link* (`IOS-169`) `planned` `low priority`

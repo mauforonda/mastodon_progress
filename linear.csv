@@ -4,9 +4,9 @@ AND-11,unstarted,Choose focal point on images,3
 AND-14,unstarted,Thread depth indicators,4
 AND-15,completed,Advanced Settings,3
 AND-18,unstarted,"Add ""Show results"" button to polls",3
-AND-4,unstarted,Follow hashtags,3
+AND-4,started,Follow hashtags,1
 AND-45,backlog,Allow posting audio files,4
-AND-5,unstarted,Translating posts,2
+AND-5,started,Translating posts,1
 AND-6,completed,Pinned posts on profiles,4
 AND-63,completed,Show verified links more prominently,2
 AND-73,completed,Server information in settings,3
@@ -85,7 +85,6 @@ MAS-14,backlog,Configurable favicon and app logo,4
 MAS-15,started,Groups,2
 MAS-151,completed,"Change label on ""Media not available"" thumbnails",4
 MAS-16,completed,"Tokenize URLs, usernames and emojis before translation",2
-MAS-17,backlog,Respect `twitter:card` to display link previews differently,4
 MAS-19,started,Timeline of public posts talking about a trending link,3
 MAS-21,unstarted,Add delay to account deletions and allow cancelling them,1
 MAS-22,started,Add explicit flag to differentiate suspended accounts from deleted accounts,3

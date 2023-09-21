@@ -1,3 +1,5 @@
+## September 21, 2023
+- **change** in *Improve search flow* (`IOS-141`): `type` from "unstarted" to "completed"
 ## September 14, 2023
 - **dropped**: *Respect `twitter:card` to display link previews differently* (`MAS-17`) `exploring` `low priority`
 - **change** in *Follow hashtags* (`AND-4`): `priority` from "medium priority" to "urgent"
